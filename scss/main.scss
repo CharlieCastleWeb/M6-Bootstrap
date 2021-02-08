@@ -1,3 +1,5 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
 .jumbotron {
   position: relative;
   text-align: center;
@@ -44,6 +46,13 @@ h5 {
 }
 
 @media (min-width: 768px) {
+  .collapse {
+    width: 25%;
+  }
+  .modal-body {
+    display: flex;
+    justify-content: space-around;
+  }
   .jumbotron {
     overflow: hidden;
     height: 60vh;
