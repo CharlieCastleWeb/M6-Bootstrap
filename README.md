@@ -7,7 +7,7 @@ Coded a responsive design layout using Bootstrap, HTML and SCSS.
 
 It includes a mobile first approach, modal page and image slider.
 
-Technologies
+# Technologies
 
 This Project was created using:
 * Bootstrap
